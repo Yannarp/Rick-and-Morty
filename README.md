@@ -1,3 +1,16 @@
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/310ece3ccbd235e0aea972ff656c8e98e9a82ad8a182bbc8effe81066f89d9e5/68747470733a2f2f72656163746a737269636b616e646d6f7274792e6e65746c6966792e6170702f7374617469632f6d656469612f6c6f676f2e33643638376465356463326665353931616530352e706e67"><img src="https://camo.githubusercontent.com/310ece3ccbd235e0aea972ff656c8e98e9a82ad8a182bbc8effe81066f89d9e5/68747470733a2f2f72656163746a737269636b616e646d6f7274792e6e65746c6966792e6170702f7374617469632f6d656469612f6c6f676f2e33643638376465356463326665353931616530352e706e67" alt="drawing" width="200" data-canonical-src="https://reactjsrickandmorty.netlify.app/static/media/logo.3d687de5dc2fe591ae05.png" style="max-width: 100%;"></a>
+
+
+## This project consumes <a href="https://rickandmortyapi.com/" rel="nofollow">The Rick and Morty API</a>
+
+
+![Morty](https://user-images.githubusercontent.com/81976280/159133745-20cf221e-e275-44b5-aa66-d883b8d18ef5.png)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -39,32 +52,4 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
