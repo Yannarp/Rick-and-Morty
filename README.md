@@ -1,7 +1,7 @@
-![r em](https://user-images.githubusercontent.com/81976280/159133738-8b9eef7f-256e-4e0d-8b0a-947664af2f5d.png)
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/310ece3ccbd235e0aea972ff656c8e98e9a82ad8a182bbc8effe81066f89d9e5/68747470733a2f2f72656163746a737269636b616e646d6f7274792e6e65746c6966792e6170702f7374617469632f6d656469612f6c6f676f2e33643638376465356463326665353931616530352e706e67"><img src="https://camo.githubusercontent.com/310ece3ccbd235e0aea972ff656c8e98e9a82ad8a182bbc8effe81066f89d9e5/68747470733a2f2f72656163746a737269636b616e646d6f7274792e6e65746c6966792e6170702f7374617469632f6d656469612f6c6f676f2e33643638376465356463326665353931616530352e706e67" alt="drawing" width="200" data-canonical-src="https://reactjsrickandmorty.netlify.app/static/media/logo.3d687de5dc2fe591ae05.png" style="max-width: 100%;"></a>
 
 
-## This project consumes The Rick and Morty API
+## This project consumes <a href="https://rickandmortyapi.com/" rel="nofollow">The Rick and Morty API</a>
 
 
 ![Morty](https://user-images.githubusercontent.com/81976280/159133745-20cf221e-e275-44b5-aa66-d883b8d18ef5.png)
